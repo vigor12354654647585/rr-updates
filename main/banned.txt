@@ -1,7 +1,0 @@
-# exit.cc banned list - one credential per line.
-# A line can be a license key or an account username; matching is
-# case-insensitive. Lines starting with # are comments.
-# Edit this file in the repo and every client refuses the credential on
-# its next login or revalidation - no rebuild, no release.
-
-TJpX2K-9jnCHJ-XtpiTW-5fKgG0-QMxJUp-LgOwBz
